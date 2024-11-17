@@ -1,0 +1,24 @@
+/* index.css */
+
+/* Estilos globais aplicados ao body */
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif; /* Fonte para o body */
+  background-color: #000; /* Cor de fundo */
+  color: #e4caca; /* Cor do texto */
+  line-height: 1.6; /* Espaçamento entre linhas */
+  margin: 25%;
+}
+
+button{
+    background: #1515;
+    color: #f2f2f2;
+    border: none;
+}
+
+button:hover{
+    background: #161616;
+    color: #f2f2f2;
+}
